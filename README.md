@@ -1,0 +1,4 @@
+- Create a SFTP Server: https://www.ionos.com/digitalguide/server/configuration/set-up-an-ubuntu-sftp-server/
+- Install Python: https://www.geeksforgeeks.org/how-to-install-python-in-ubuntu/
+- Modify the device.csv with your device information
+- Recheck and runscript
