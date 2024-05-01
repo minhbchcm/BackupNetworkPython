@@ -1,0 +1,3 @@
+hostname,username,password,enable_password
+172.16.0.200,cisco,cisco,cisco
+172.16.0.201,cisco,cisco,cisco@123
